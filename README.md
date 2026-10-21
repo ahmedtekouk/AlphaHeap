@@ -28,6 +28,9 @@ A lightweight C library designed to make dynamic memory allocation easier and sa
 
 ## How to Install
 1. Clone the project using git
+```bash
+git clone https://github.com/ahmedtekouk/AlphaHeap.git
+```
 2. Go to the project directory
-3. Now you can use the files `aheap.h` and `aheap.c` in your C project
-4. Check out the [Usage Tutorial](Usage.md) to learn how to use the library
+4. Now you can use the files `aheap.h` and `aheap.c` in your C project
+5. Check out the [Usage Tutorial](Usage.md) to learn how to use the library

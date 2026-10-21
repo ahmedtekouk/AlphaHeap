@@ -1,0 +1,18 @@
+# Executables and Compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Ignore any generated executable from testing
+test
+main
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+
+# OS temporary files
+Thumbs.db
+.DS_Store

@@ -6,7 +6,6 @@
 *.app
 
 # Ignore any generated executable from testing
-test
 main
 htest
 

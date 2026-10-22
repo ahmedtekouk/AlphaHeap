@@ -18,10 +18,20 @@ cp -r AlphaHeap/src /path/to/your/project # <- Your Project Directory
 - To use the function :
 `malloc_int(&your_pointer , your_integer_number_varibale , your_error_message_varibale);`
 
-**`make_array()`**: To make an heap array>
+**`make_array()`**: To make an heap array
 - To use it you need the same **integer pointer** you make it before, **integer number** for loop replay time and another **integer number** for multitype value.
 - To use the function :
 `make_array(&the_pointer , repaly_time_varibale , multitype_value_varibale);`
+
+**`print_array()`** : To print the heap array
+- To use it you need to the same **integer pointer** you make an array on it and an **integer varibale** for loop replay time
+- To use the function :
+`print_array(&the_pointer , replay_time_varibale);`
+
+**`auto_free`**: For the secret free the heap 
+- To use it just you need the same **pointer**
+- To use the function : 
+`auto_free(&the_pointer);`
 
 ## Compile Steps
 To compile use this command

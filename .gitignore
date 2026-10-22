@@ -8,6 +8,7 @@
 # Ignore any generated executable from testing
 test
 main
+htest
 
 # IDE / Editor configuration
 .vscode/

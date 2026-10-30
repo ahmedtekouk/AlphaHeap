@@ -9,10 +9,9 @@ A lightweight C library designed to make dynamic memory allocation easier and sa
 - Flexible custom error handling (lets the developer define how and where errors are reported).
 - Clean separation of concerns with modular headers.
 
-## New Update - v1.1a
-- Added new function : `auto_free()`.
-- Added test folder.
-- Make the code clean and easier to read.
+## New Update - v1.1b
+- Modify test directory stracture and add README.md to test.
+- Update `test.c` test file.
 - Check out the [Usage Manual](Usage.md) to know more.
 ---
 

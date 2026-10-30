@@ -33,6 +33,10 @@ cp -r AlphaHeap/src /path/to/your/project # <- Your Project Directory
 - To use the function : 
 `auto_free(&the_pointer);`
 
+## Test Options
+Now you can test the **AlphaHeap** library from the [The new test directory](Test)
+For use it check out the [README test file](Test/README.md)
+
 ## Compile Steps
 To compile use this command
 ```bash
